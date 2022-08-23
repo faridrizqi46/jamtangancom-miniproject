@@ -7,3 +7,5 @@ This is a mini-project that I created to improve my skills, so in this project, 
 <b>SOON</b>
 <br></br>
 ## Dashboard
+Try the dashboard <a href="https://datastudio.google.com/reporting/b1965084-d14a-470a-aefe-bddb473a02ae">Here</a>
+![Dashboard Preview](https://github.com/faridrizqi46/jamtangancom-miniproject/blob/main/image_2022-08-23_170338042.png?raw=true)
